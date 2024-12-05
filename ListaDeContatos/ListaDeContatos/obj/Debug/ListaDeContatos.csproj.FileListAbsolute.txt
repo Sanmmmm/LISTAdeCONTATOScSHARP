@@ -1,0 +1,10 @@
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\bin\Debug\ListaDeContatos.exe.config
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\bin\Debug\ListaDeContatos.exe
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\bin\Debug\ListaDeContatos.pdb
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.csproj.AssemblyReference.cache
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.Form1.resources
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.Properties.Resources.resources
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.csproj.GenerateResource.cache
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.exe
+C:\Users\sanmg\source\repos\ListaDeContatos\ListaDeContatos\obj\Debug\ListaDeContatos.pdb
